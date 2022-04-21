@@ -1,0 +1,12 @@
+2022/04/02 18:24:39 This should be logged
+2022/04/02 19:03:38 This should be logged
+2022/04/03 15:33:26 [TeacherPortal] - Failed to parse score:  strconv.ParseFloat: parsing "": invalid syntax
+
+2022/04/03 15:33:27 [TeacherPortal] - Failed to parse score:  strconv.ParseFloat: parsing "": invalid syntax
+
+2022/04/03 18:35:12 [GradingService] - Failed to deregister service. Registry service responded with code 500
+
+2022/04/03 18:35:12 [GradingService] - http: Server closed
+
+2022/04/04 12:15:57 [TeacherPortal] - Failed to parse score:  strconv.ParseFloat: parsing "": invalid syntax
+
